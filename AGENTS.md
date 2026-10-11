@@ -11,3 +11,4 @@
 - Update catalogue/documentation only when the corresponding feature exists.
 - Preserve attribution and per-skill licensing.
 - When adding automation, use least-privilege permissions and pin third-party actions to reviewed versions where practical.
+- Every `README.md` created or materially updated in this repository must include the SkillForge visitor badge: `[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Facm-bitmesra%2FSkillForge&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facm-bitmesra%2FSkillForge)` (unless the user explicitly provides a different visitor-badge target).
