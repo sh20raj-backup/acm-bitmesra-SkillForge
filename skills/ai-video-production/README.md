@@ -1,5 +1,7 @@
 # AI Video Production Studio
 
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Facm-bitmesra%2FSkillForge&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facm-bitmesra%2FSkillForge)
+
 Create, animate, edit, render, caption and package videos with Claude Motion, coding agents, programmatic video tools and external generative video/audio models.
 
 ## Install
