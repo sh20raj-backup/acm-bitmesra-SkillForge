@@ -73,11 +73,16 @@ A detailed implementation playbook for building modern AI chat interfaces with s
 
 Skills live under `skills/<skill-name>/`. Each folder is self-contained and may include references, examples, or scripts alongside the required `SKILL.md`.
 
-| Skill | Focus | Status |
+| Skill | Focus | Install |
 |---|---|---|
-| [ChatGPT-Style Generative UI](skills/chatgpt-style-generative-ui/) | React, Next.js, accessible generative UI and rich AI chat responses | Community contribution |
+| [ChatGPT-Style Generative UI](skills/chatgpt-style-generative-ui/) | React, Next.js, rich AI responses, typed component registries, streaming and safety | `npx skills add acm-bitmesra/SkillForge --skill chatgpt-style-generative-ui` |
+| [Next.js App Router Engineering](skills/nextjs-app-router-engineering/) | Server/client boundaries, data fetching, caching, security and production readiness | `npx skills add acm-bitmesra/SkillForge --skill nextjs-app-router-engineering` |
+| [Premium Frontend Design](skills/premium-frontend-design/) | Visual direction, design tokens, responsive layouts, real UI states and accessibility | `npx skills add acm-bitmesra/SkillForge --skill premium-frontend-design` |
+| [API Security Review](skills/api-security-review/) | OWASP-aligned endpoint inventory, authorization, validation, abuse controls and remediation | `npx skills add acm-bitmesra/SkillForge --skill api-security-review` |
+| [Testing and Quality Engineering](skills/testing-quality-engineering/) | Unit, integration, browser, contract and release testing; flaky-test diagnosis | `npx skills add acm-bitmesra/SkillForge --skill testing-quality-engineering` |
+| [Evidence-Based Web Research](skills/evidence-based-web-research/) | Source evaluation, date verification, corroboration, citations and uncertainty-aware reports | `npx skills add acm-bitmesra/SkillForge --skill evidence-based-web-research` |
 
-More skills will appear here as they are contributed and reviewed. The catalogue is intentionally not padded with placeholder entries.
+Each skill has its own detailed `SKILL.md`, scope, workflow, acceptance checklist and curated official references. Install commands use the current `skills` CLI syntax; see its help output for any version-specific changes.
 
 ## 🤝 Contribute a skill
 
@@ -116,8 +121,9 @@ Skills are instructions and may include scripts or references. Review a skill be
 ## Roadmap
 
 - [x] Establish the repository structure and contribution policy
-- [x] Add an initial generative UI skill
-- [x] Validate skill metadata in CI
+- [x] Add the initial generative UI skill
+- [x] Add five researched skills across engineering, design, security, testing, and research
+- [x] Add structural skill validation in CI
 - [ ] Grow the community-maintained collection
 - [ ] Generate a searchable skill catalogue
 - [ ] Build a web directory for browsing and discovery
