@@ -1,0 +1,28 @@
+name: Skill issue or documentation bug
+description: Report a problem with a SkillForge skill, instructions, or repository tooling.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please avoid posting credentials, private content, or sensitive security details."
+  - type: input
+    id: skill
+    attributes:
+      label: Skill name or file path
+      placeholder: skills/example-skill/SKILL.md
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What went wrong?
+      description: Describe the behavior and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: false
