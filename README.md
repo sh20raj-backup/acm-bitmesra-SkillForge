@@ -11,6 +11,7 @@
 [![Maintained by ACM BIT Mesra](https://img.shields.io/badge/maintained%20by-ACM%20BIT%20Mesra-0b7285?style=for-the-badge)](https://github.com/acm-bitmesra)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2da44e?style=for-the-badge)](CONTRIBUTING.md)
 [![CI](https://github.com/acm-bitmesra/SkillForge/actions/workflows/validate.yml/badge.svg)](https://github.com/acm-bitmesra/SkillForge/actions/workflows/validate.yml)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Facm-bitmesra%2FSkillForge&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Facm-bitmesra%2FSkillForge)
 
 **Build once. Share everywhere.**
 
