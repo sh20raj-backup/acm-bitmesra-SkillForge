@@ -8,6 +8,8 @@
 [![Community](https://img.shields.io/badge/community-open%20source-2da44e?style=for-the-badge)](CONTRIBUTING.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-fc8c03?style=for-the-badge)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
+[![Maintained by ACM BIT Mesra](https://img.shields.io/badge/maintained%20by-ACM%20BIT%20Mesra-0b7285?style=for-the-badge)](https://github.com/acm-bitmesra)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2da44e?style=for-the-badge)](CONTRIBUTING.md)
 [![CI](https://github.com/acm-bitmesra/SkillForge/actions/workflows/validate.yml/badge.svg)](https://github.com/acm-bitmesra/SkillForge/actions/workflows/validate.yml)
 
 **Build once. Share everywhere.**
