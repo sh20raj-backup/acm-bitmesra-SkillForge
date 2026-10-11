@@ -1,0 +1,24 @@
+name: Suggest a skill
+description: Propose a reusable workflow that would be valuable in SkillForge.
+title: "[Skill request]: "
+labels: ["enhancement", "skill-request"]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Suggested name
+      placeholder: api-security-review
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: What problem should this skill solve?
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example requests and expected behavior
+    validations:
+      required: true
