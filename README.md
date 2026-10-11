@@ -81,6 +81,7 @@ Skills live under `skills/<skill-name>/`. Each folder is self-contained and may 
 | [API Security Review](skills/api-security-review/) | OWASP-aligned endpoint inventory, authorization, validation, abuse controls and remediation | `npx skills add acm-bitmesra/SkillForge --skill api-security-review` |
 | [Testing and Quality Engineering](skills/testing-quality-engineering/) | Unit, integration, browser, contract and release testing; flaky-test diagnosis | `npx skills add acm-bitmesra/SkillForge --skill testing-quality-engineering` |
 | [Evidence-Based Web Research](skills/evidence-based-web-research/) | Source evaluation, date verification, corroboration, citations and uncertainty-aware reports | `npx skills add acm-bitmesra/SkillForge --skill evidence-based-web-research` |
+| [AI Video Production Studio](skills/ai-video-production/) | Claude Motion, motion graphics, programmatic video, generated footage, editing, captions and QA | `npx skills add acm-bitmesra/SkillForge --skill ai-video-production` |
 
 Each skill has its own detailed `SKILL.md`, scope, workflow, acceptance checklist and curated official references. Install commands use the current `skills` CLI syntax; see its help output for any version-specific changes.
 
@@ -123,6 +124,7 @@ Skills are instructions and may include scripts or references. Review a skill be
 - [x] Establish the repository structure and contribution policy
 - [x] Add the initial generative UI skill
 - [x] Add five researched skills across engineering, design, security, testing, and research
+- [x] Add an end-to-end AI video production skill with video-type matrix and prompt blueprints
 - [x] Add structural skill validation in CI
 - [ ] Grow the community-maintained collection
 - [ ] Generate a searchable skill catalogue
